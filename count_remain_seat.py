@@ -4,11 +4,11 @@ import time
 #######################################################
 ########### 아래 값 채워준 뒤 실행해주시면 됩니다. #############
 #######################################################
-prodId = ""
-pocCode = ""
-scheduleNo = ""
+prodId = "211358"
+pocCode = "SC0002"
+scheduleNo = "100003"
 cookie = ""
-slack_webhook_url = ""
+slack_webhook_url = "https://hooks.slack.com/services/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"
 #######################################################
 #######################################################
 
