@@ -8,7 +8,7 @@ import time
 prodId = "211358"
 pocCode = "SC0002"
 scheduleNo = "100003"
-cookie = ""
+cookie = "PCID=17500413177579879277181; JSESSIONID=306C18A10E0A0A1BB08B4317357109BE; MLCP=Mzc3NDk0ODAlM0Jta...; MAC=v0ioOj7AHah8NLvb0dtO8RcI5VicARtczn6yVV6tzkLot0ZXyCzXHkpjVoLUlMzT;"
 slack_webhook_url = "https://hooks.slack.com/services/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"
 #######################################################
 #######################################################
